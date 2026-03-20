@@ -1,0 +1,316 @@
+﻿id_pedido,data_pedido,categoria,estado,quantidade,preco_unitario,metodo_pagamento,status_pedido,avaliacao
+1207,2024-05-17,Livros,BA,9.0,110.25,  PIX  ,Em trânsito,
+1034,2023-03-22,Alimentos,SC,2.0,612.81,Boleto,Entregue,5.0
+1164,02-02-24,Alimentos,RS,5.0,"R$ 507,87",Cartão de Débito,Pendente,1.0
+1079,10/07/2023,Alimentos,RS,2.0,434.87,PIX,Cancelado,
+1094,2023-08-16,Roupas,BA,1.0,185.32,Cartão de Débito,Pendente,4.0
+1230,2024-07-13,Eletrônicos,GO,1.0,793.79,Cartão de Crédito,Entregue,4.0
+1026,2023-03-03,Livros,RJ,1.0,217.54,Cartão de Crédito,Entregue,5.0
+1010,2023-01-22,Eletrônicos,SP,7.0,249.92,Cartão de Débito,Entregue,
+1064,2023-06-03,ESPORTES,GO,9.0,118.02,Cartão de Crédito,Entregue,5.0
+1083,20/07/2023,eletrônicos,GO,5.0,598.46,Cartão de Débito,Entregue,
+1168,12-02-24,ELETRÔNICOS,BA,7.0,554.63,Boleto,Entregue,3.0
+1194,16/04/2024,Roupas,ba,4.0,"R$ 221,09",Cartão de Débito,Entregue,
+1158,2024-01-19,Alimentos,PR,8.0,177.97,Boleto,Entregue,4.0
+1061,27/05/2023,Esportes,SC,3.0,438.52,Cartão de Crédito,Entregue,
+1146,2023-12-21,Esportes,PR,3.0,274.71,Boleto,Entregue,4.0
+1199,28/04/2024,Roupas,GO,4.0,691.24,Boleto,Cancelado,4.0
+1214,2024-06-04,Alimentos,SC,7.0,747.66,,Entregue,5.0
+1280,12/11/2024,Eletrônicos,S.P.,7.0,182.54,  PIX  ,Entregue,4.0
+1255,2024-09-12,Livros,GO,500.0,436.4,Boleto,Entregue,4.0
+1043,13/04/2023,LIVROS,BA,1.0,160.0,Cartão de Débito,Cancelado,
+1006,2023-01-13,Esportes,RJ,3.0,"R$ 528,96",PIX,,1.0
+1240,2024-08-06,Livros,SP,2.0,"R$ 544,37",Cartão de Débito,Entregue,
+1228,08-07-24,Alimentos,Rio de Janeiro,6.0,555.21,Cartão de Débito,Entregue,2.0
+1165,05-02-24,Alimentos,SP,5.0,269.98,Boleto,Entregue,4.0
+1296,2024-12-21,Alimentos,SC,2.0,169.99,PIX,Entregue,5.0
+1275,2024-10-30,Alimentos,SP,7.0,413.26,PIX,Entregue,4.0
+1120,2023-10-18,ELETRÔNICOS,BA,9.0,"R$ 370,71",PIX,Entregue,5.0
+1300,31/12/2024,eletrônicos,,5.0,593.09,  PIX  ,Em trânsito,5.0
+1077,2023-07-05,Roupas,PR,5.0,382.71,PIX,Pendente,3.0
+1149,2023-12-28,Esportes,,,691.29,Boleto,Pendente,4.0
+1090,2023-08-06,Esportes,RJ,1.0,639.68,Cartão de Débito,Em trânsito,4.0
+1153,2024-01-07,Esportes,RS,1.0,234.62,Cartão de Crédito,Em trânsito,4.0
+1058,2023-05-20,Eletrônicos,GO,7.0,423.78,PIX,Em trânsito,5.0
+1276,2024-11-02,Alimentos,MG,2.0,605.21,  PIX  ,Entregue,4.0
+1281,2024-11-14,Roupas,,1.0,606.16,Cartão de Crédito,Entregue,4.0
+1298,2024-12-26,Alimentos,SC,2.0,531.74,Cartão de Crédito,Entregue,5.0
+1114,2023-10-03,Alimentos,RJ,7.0,"R$ 761,05",Cartão de Débito,Entregue,1.0
+1004,08-01-23,Alimentos,GO,3.0,99999.0,Cartão de Crédito,Entregue,5.0
+1266,2024-10-08,Alimentos,RJ,9.0,"R$ 691,42",  PIX  ,Entregue,5.0
+1112,29/09/2023,Livros,R.J.,2.0,487.76,  PIX  ,Entregue,5.0
+1220,18/06/2024,Esportes,BA,5.0,710.18,Cartão de Débito,Entregue,
+1105,2023-09-11,Livros,RS,2.0,513.18,Cartão de Crédito,Entregue,5.0
+1085,2023-07-25,Livros,SP,6.0,139.24,  Cartão de Crédito  ,Entregue,5.0
+1078,2023-07-07,Roupas,PR,,332.35,Cartão de Crédito,Pendente,2.0
+1047,2023-04-23,Alimentos,GO,7.0,"R$ 573,99",Boleto,Entregue,4.0
+1046,2023-04-20,esportes,MG,6.0,211.3,Boleto,Entregue,3.0
+1018,2023-02-11,Eletrônicos,PR,1.0,"R$ 127,48",Boleto,Pendente,4.0
+1181,2024-03-15,Esportes,MG,9.0,"R$ 210,48",Cartão de Débito,Pendente,4.0
+1184,2024-03-22,Livros,SC,8.0,"R$ 677,79",Cartão de Crédito,Entregue,
+1141,08-12-23,Esportes,GO,7.0,91.54,Cartão de Débito,Pendente,2.0
+1025,2023-02-28,Livros,GO,6.0,148.94,PIX,Entregue,3.0
+1074,2023-06-28,ELETRÔNICOS,Minas gerais,8.0,"R$ 735,14",Cartão de Crédito,Entregue,4.0
+1205,2024-05-13,Alimentos,Minas gerais,9.0,127.9,PIX,Em trânsito,
+1109,2023-09-21,Alimentos,GO,3.0,586.42,Boleto,Entregue,2.0
+1091,2023-08-08,Alimentos,PR,7.0,505.71,Cartão de Débito,Pendente,4.0
+1117,11/10/2023,Eletrônicos,GO,8.0,548.91,PIX,Cancelado,4.0
+1286,26-11-24,Esportes,GO,3.0,662.02,PIX,,2.0
+1008,2023-01-18,livros,BA,5.0,106.34,PIX,Entregue,4.0
+1293,2024-12-13,esportes,R.J.,,702.57,  PIX  ,Em trânsito,5.0
+1185,2024-03-25,Alimentos,RS,4.0,783.0,  Boleto  ,Entregue,
+1270,2024-10-18,Alimentos,Bahia,2.0,92.35,  Cartão de Crédito  ,Pendente,3.0
+1174,2024-02-27,Livros,RS,7.0,750.03,PIX,Entregue,5.0
+1297,23-12-24,ESPORTES,Bahia,9.0,192.22,,Entregue,5.0
+1222,2024-06-23,ALIMENTOS,RJ,7.0,107.24,PIX,Entregue,4.0
+1133,19-11-23,Eletrônicos,SC,1.0,416.97,Cartão de Débito,Entregue,4.0
+1156,2024-01-14,Livros,ba,3.0,546.29,Boleto,Cancelado,1.0
+1095,2023-08-18,Esportes,PR,7.0,740.55,Cartão de Crédito,Entregue,4.0
+1246,2024-08-21,Eletrônicos,SP,9.0,"R$ 270,81",Cartão de Crédito,Entregue,4.0
+1076,2023-07-03,Alimentos,SP,3.0,494.34,PIX,Entregue,
+1148,25/12/2023,roupas,GO,6.0,"R$ 626,96",  Boleto  ,Entregue,4.0
+1234,2024-07-22,livros,Minas gerais,8.0,587.72,  Cartão de Crédito  ,Entregue,3.0
+1263,2024-10-01,ROUPAS,RS,1.0,"R$ 662,04",Cartão de Crédito,Em trânsito,3.0
+1209,22/05/2024,Roupas,mg,3.0,798.92,Boleto,Entregue,5.0
+1115,2023-10-06,Alimentos,São Paulo,1.0,287.32,Cartão de Débito,Entregue,1.0
+1144,2023-12-16,Alimentos,RS,6.0,537.07,Boleto,Entregue,4.0
+1212,2024-05-30,Livros,PR,5.0,349.78,  Cartão de Débito  ,Em trânsito,
+1233,20/07/2024,eletrônicos,RJ,7.0,94.26,Boleto,Entregue,1.0
+1262,2024-09-29,Eletrônicos,SP,4.0,0.0,Cartão de Débito,Cancelado,4.0
+1060,2023-05-25,Livros,PR,8.0,433.2,Boleto,Entregue,
+1110,2023-09-24,Livros,SP,2.0,379.66,Boleto,Entregue,5.0
+1007,2023-01-15,Eletrônicos,,9.0,"R$ 406,50",  Boleto  ,Pendente,4.0
+1299,2024-12-28,Roupas,PR,5.0,245.49,Cartão de Crédito,Cancelado,4.0
+1031,15/03/2023,alimentos,Bahia,1.0,250.91,PIX,Entregue,3.0
+1023,2023-02-23,Eletrônicos,Bahia,2.0,501.07,Cartão de Crédito,Entregue,5.0
+1268,13-10-24,Roupas,RJ,5.0,440.37,Cartão de Débito,Entregue,3.0
+1057,2023-05-17,Alimentos,R.J.,9.0,626.34,Cartão de Débito,Entregue,5.0
+1256,2024-09-14,Eletrônicos,BA,3.0,"R$ 72,66",Cartão de Débito,Entregue,2.0
+1200,2024-04-30,Esportes,RS,9.0,150.81,Boleto,Entregue,4.0
+1250,30-08-24,eletrônicos,PR,7.0,"R$ 716,56",PIX,Entregue,3.0
+1183,2024-03-20,Alimentos,MG,1.0,740.62,Cartão de Crédito,Entregue,4.0
+1254,09/09/2024,Roupas,MG,4.0,"R$ 139,75",  Cartão de Crédito  ,Em trânsito,5.0
+1295,2024-12-18,Alimentos,MG,5.0,700.83,PIX,Entregue,4.0
+1145,2023-12-18,Esportes,BA,2.0,"R$ 35,42",Cartão de Débito,Entregue,
+1177,2024-03-05,Livros,SC,2.0,444.75,  Boleto  ,Cancelado,5.0
+1102,04/09/2023,Eletrônicos,SC,7.0,377.44,PIX,Entregue,4.0
+1257,2024-09-17,livros,PR,4.0,"R$ 61,19",Cartão de Crédito,Cancelado,3.0
+1067,2023-06-11,Esportes,RS,9.0,763.5,PIX,Entregue,3.0
+1127,04-11-23,Eletrônicos,SC,6.0,"R$ 759,08",  PIX  ,Em trânsito,
+1019,2023-02-13,esportes,GO,5.0,"R$ 257,48",Cartão de Crédito,Entregue,5.0
+1180,2024-03-13,Alimentos,São Paulo,5.0,280.61,Cartão de Débito,Em trânsito,4.0
+1209,22/05/2024,Roupas,mg,3.0,798.92,Boleto,Entregue,5.0
+1020,16-02-23,Alimentos,SC,0.0,451.26,  Cartão de Crédito  ,Entregue,2.0
+1155,11/01/2024,ALIMENTOS,BA,2.0,241.15,PIX,Pendente,
+1093,13/08/2023,Esportes,MG,4.0,639.04,Cartão de Débito,Em trânsito,4.0
+1080,2023-07-12,Livros,MG,6.0,166.05,Cartão de Débito,Entregue,
+1226,03/07/2024,Roupas,MG,8.0,450.7,  Cartão de Crédito  ,Entregue,4.0
+1245,18-08-24,Livros,SC,2.0,345.0,Cartão de Crédito,Em trânsito,3.0
+1073,2023-06-25,Alimentos,RS,7.0,112.78,  PIX  ,Entregue,4.0
+1097,23-08-23,roupas,S.P.,6.0,518.43,PIX,Entregue,2.0
+1016,2023-02-06,Livros,PR,9.0,"R$ 763,34",PIX,,4.0
+1011,2023-01-25,alimentos,PR,4.0,616.55,Cartão de Débito,Entregue,5.0
+1176,2024-03-03,Alimentos,SC,9.0,"R$ 271,33",Cartão de Débito,Entregue,2.0
+1125,30/10/2023,Esportes,RS,5.0,534.8,Cartão de Débito,Em trânsito,4.0
+1098,2023-08-25,Livros,,7.0,"R$ 21,80",PIX,Entregue,3.0
+1069,2023-06-16,Eletrônicos,S.P.,9.0,"R$ 452,44",Cartão de Débito,Entregue,4.0
+1247,2024-08-23,Livros,RS,9.0,604.08,Cartão de Crédito,Cancelado,5.0
+1038,2023-04-01,Esportes,mg,1.0,"R$ 114,11",Boleto,Entregue,
+1017,2023-02-09,Alimentos,PR,5.0,76.02,Cartão de Crédito,Entregue,4.0
+1056,15/05/2023,Eletrônicos,GO,2.0,712.63,PIX,Cancelado,5.0
+1224,2024-06-28,Roupas,SC,7.0,"R$ 157,56",PIX,Cancelado,4.0
+1285,2024-11-24,ALIMENTOS,RS,7.0,156.77,Cartão de Débito,Entregue,5.0
+1068,2023-06-13,Roupas,mg,6.0,147.59,Cartão de Débito,Cancelado,
+1119,16-10-23,Roupas,Minas gerais,2.0,51.4,Cartão de Crédito,Entregue,5.0
+1173,24/02/2024,livros,RS,3.0,"R$ 366,28",Cartão de Crédito,Pendente,4.0
+1070,2023-06-18,Alimentos,SC,9.0,182.02,Cartão de Crédito,Em trânsito,4.0
+1032,2023-03-17,Roupas,MG,1.0,"R$ 309,58",Boleto,Entregue,4.0
+1204,10/05/2024,Livros,SC,2.0,674.56,Cartão de Débito,Entregue,4.0
+1166,07-02-24,esportes,GO,4.0,781.38,Cartão de Débito,Cancelado,4.0
+1248,2024-08-26,Alimentos,,4.0,645.08,Cartão de Crédito,Entregue,4.0
+1126,2023-11-02,Alimentos,RJ,9.0,255.93,Cartão de Crédito,Entregue,5.0
+1178,2024-03-08,eletrônicos,SP,4.0,"R$ 402,06",Cartão de Crédito,Entregue,5.0
+1087,2023-07-29,ELETRÔNICOS,São Paulo,8.0,286.28,Boleto,Entregue,4.0
+1266,2024-10-08,Alimentos,RJ,9.0,"R$ 691,42",  PIX  ,Entregue,5.0
+1198,25-04-24,Eletrônicos,MG,2.0,656.52,Boleto,Entregue,5.0
+1267,2024-10-11,Alimentos,rj,5.0,662.04,Cartão de Débito,Entregue,4.0
+1138,2023-12-01,Eletrônicos,GO,6.0,338.36,  Boleto  ,Entregue,4.0
+1227,05-07-24,Esportes,GO,9.0,410.6,PIX,Em trânsito,2.0
+1140,2023-12-06,alimentos,RS,3.0,118.13,  Cartão de Débito  ,,4.0
+1203,2024-05-08,Alimentos,GO,7.0,642.06,  PIX  ,Cancelado,
+1147,2023-12-23,Eletrônicos,MG,4.0,"R$ 174,29",  PIX  ,Cancelado,4.0
+1245,18-08-24,Livros,SC,2.0,345.0,Cartão de Crédito,Em trânsito,3.0
+1130,2023-11-11,Livros,PR,2.0,334.45,,Entregue,3.0
+1039,2023-04-03,Roupas,R.J.,7.0,718.98,Cartão de Débito,,3.0
+1060,2023-05-25,Livros,PR,8.0,433.2,Boleto,Entregue,
+1187,2024-03-30,Eletrônicos,mg,4.0,"R$ 616,44",Cartão de Crédito,Cancelado,5.0
+1067,2023-06-11,Esportes,RS,9.0,763.5,PIX,Entregue,3.0
+1113,2023-10-01,ALIMENTOS,Minas gerais,7.0,388.77,PIX,Em trânsito,4.0
+1186,2024-03-27,Alimentos,RJ,5.0,601.09,  PIX  ,Entregue,1.0
+1118,13/10/2023,Eletrônicos,São Paulo,5.0,679.89,Boleto,Entregue,1.0
+1292,2024-12-11,Roupas,GO,8.0,326.48,PIX,Entregue,5.0
+1286,26-11-24,Esportes,GO,3.0,662.02,PIX,,2.0
+1182,2024-03-17,Eletrônicos,,1.0,"R$ 731,88",PIX,Em trânsito,1.0
+1195,2024-04-18,Esportes,MG,2.0,477.05,  Boleto  ,Entregue,5.0
+1197,2024-04-23,Roupas,São Paulo,5.0,"R$ 190,71",Cartão de Débito,Entregue,4.0
+1003,2023-01-05,Livros,SP,,"R$ 55,24",PIX,Cancelado,5.0
+1116,08-10-23,Alimentos,PR,2.0,158.24,Cartão de Débito,Cancelado,5.0
+1159,2024-01-21,Alimentos,SC,8.0,442.82,,Cancelado,
+1196,2024-04-21,Eletrônicos,RS,7.0,"R$ 339,79",Boleto,Em trânsito,3.0
+1121,2023-10-20,Alimentos,GO,3.0,716.14,Cartão de Crédito,Entregue,
+1232,2024-07-17,Esportes,,9.0,422.84,Cartão de Crédito,Entregue,4.0
+1273,2024-10-26,Eletrônicos,Minas Gerais,,220.81,Cartão de Crédito,Entregue,2.0
+1128,07/11/2023,Livros,SC,6.0,"R$ 305,74",Cartão de Crédito,Entregue,
+1075,30/06/2023,Livros,GO,2.0,"R$ 270,80",PIX,Entregue,2.0
+1030,2023-03-12,Alimentos,,9.0,"R$ 593,40",Boleto,Entregue,2.0
+1084,2023-07-22,Esportes,RJ,4.0,"R$ 385,63",Cartão de Débito,Entregue,5.0
+1261,26/09/2024,Livros,BA,4.0,47.17,Cartão de Débito,Pendente,5.0
+1108,2023-09-19,LIVROS,R.J.,6.0,"R$ 268,94",PIX,Entregue,5.0
+1169,2024-02-15,Roupas,RJ,5.0,38.12,Cartão de Crédito,Entregue,3.0
+1259,2024-09-21,Eletrônicos,SC,6.0,360.33,PIX,Entregue,5.0
+1134,2023-11-21,Alimentos,RJ,8.0,"R$ 727,53",Cartão de Débito,Entregue,
+1210,2024-05-25,Livros,RJ,2.0,170.22,Cartão de Débito,Entregue,5.0
+1238,2024-08-01,Alimentos,S.P.,1.0,"R$ 351,33",Cartão de Crédito,Pendente,4.0
+1291,2024-12-09,esportes,SC,,"R$ 370,01",Cartão de Crédito,Entregue,2.0
+1066,2023-06-08,Roupas,BA,5.0,"R$ 395,98",PIX,Entregue,5.0
+1219,2024-06-16,Alimentos,,4.0,"R$ 231,09",PIX,Entregue,5.0
+1086,2023-07-27,Livros,São Paulo,3.0,738.12,Cartão de Débito,,5.0
+1235,25/07/2024,Alimentos,BA,500.0,"R$ 781,80",Cartão de Débito,Entregue,3.0
+1160,2024-01-24,Livros,SP,3.0,567.09,PIX,Entregue,3.0
+1013,2023-01-30,Livros,SP,7.0,723.28,,Pendente,4.0
+1036,2023-03-27,eletrônicos,SC,1.0,181.31,  PIX  ,Entregue,2.0
+1029,2023-03-10,Alimentos,,1.0,"R$ 475,70",  PIX  ,Entregue,5.0
+1171,2024-02-20,Eletrônicos,PR,7.0,702.58,PIX,Cancelado,2.0
+1143,2023-12-13,Roupas,RJ,5.0,531.3,PIX,Entregue,4.0
+1211,2024-05-27,ROUPAS,GO,4.0,140.09,Cartão de Crédito,Entregue,5.0
+1132,2023-11-16,Alimentos,PR,9.0,"R$ 581,43",  Boleto  ,Entregue,4.0
+1284,2024-11-21,Alimentos,SP,9.0,157.51,Cartão de Crédito,,3.0
+1052,05/05/2023,Eletrônicos,SP,8.0,213.76,PIX,Em trânsito,2.0
+1096,2023-08-20,Roupas,SC,2.0,361.63,Boleto,Entregue,4.0
+1229,10-07-24,alimentos,GO,4.0,529.1,Cartão de Débito,Entregue,5.0
+1179,2024-03-10,Esportes,PR,9.0,513.12,Boleto,Entregue,5.0
+1243,2024-08-13,Eletrônicos,RJ,5.0,669.05,Cartão de Débito,Entregue,3.0
+1042,2023-04-11,livros,MG,3.0,680.25,Cartão de Débito,Entregue,4.0
+1090,2023-08-06,Esportes,RJ,1.0,639.68,Cartão de Débito,Em trânsito,4.0
+1239,04/08/2024,Roupas,BA,1.0,60.11,Cartão de Crédito,Cancelado,5.0
+1137,29/11/2023,Livros,Bahia,2.0,"R$ 287,04",PIX,Entregue,3.0
+1027,2023-03-05,Alimentos,RJ,3.0,"R$ 145,04",Boleto,Entregue,4.0
+1154,09/01/2024,Roupas,SP,6.0,-99.99,Cartão de Débito,Cancelado,
+1142,11/12/2023,Roupas,MG,1.0,540.64,Cartão de Débito,Entregue,5.0
+1221,21/06/2024,Eletrônicos,MG,1.0,537.49,Cartão de Crédito,Entregue,5.0
+1001,2023-01-01,Eletrônicos,Minas Gerais,5.0,385.36,PIX,Entregue,4.0
+1283,19/11/2024,Livros,SP,1.0,0.0,Boleto,Entregue,4.0
+1287,2024-11-29,eletrônicos,PR,2.0,330.84,Cartão de Crédito,Entregue,
+1101,2023-09-02,Esportes,,3.0,68.41,,Entregue,3.0
+1193,2024-04-13,Livros,SC,6.0,245.67,  PIX  ,Entregue,2.0
+1289,2024-12-04,ALIMENTOS,SC,,127.02,Cartão de Crédito,Entregue,5.0
+1104,2023-09-09,Eletrônicos,GO,3.0,"R$ 138,81",Cartão de Crédito,Em trânsito,3.0
+1172,2024-02-22,Eletrônicos,SC,6.0,495.98,  Cartão de Débito  ,Entregue,5.0
+1099,2023-08-28,LIVROS,MG,8.0,"R$ 794,83",Cartão de Crédito,Cancelado,5.0
+1037,2023-03-29,Esportes,GO,2.0,754.4,Cartão de Crédito,Entregue,3.0
+1062,2023-05-29,Livros,GO,3.0,"R$ 358,96",  PIX  ,,4.0
+1151,02/01/2024,Esportes,GO,2.0,540.92,Cartão de Débito,Entregue,5.0
+1048,2023-04-25,Esportes,GO,8.0,"R$ 684,04",PIX,Entregue,3.0
+1223,26/06/2024,LIVROS,RJ,6.0,669.37,Cartão de Crédito,Pendente,4.0
+1272,2024-10-23,Eletrônicos,RS,4.0,"R$ 595,48",Cartão de Crédito,Entregue,3.0
+1012,27/01/2023,Esportes,PR,3.0,703.83,Boleto,Entregue,5.0
+1118,13/10/2023,Eletrônicos,São Paulo,5.0,679.89,Boleto,Entregue,1.0
+1201,03/05/2024,roupas,São Paulo,3.0,25.86,Cartão de Crédito,Entregue,
+1282,2024-11-17,Alimentos,SC,4.0,112.75,,Entregue,2.0
+1028,07/03/2023,ESPORTES,sp,2.0,684.51,,Entregue,4.0
+1241,2024-08-08,Eletrônicos,PR,4.0,295.6,Boleto,Entregue,3.0
+1005,2023-01-10,ALIMENTOS,BA,6.0,768.28,Cartão de Débito,Entregue,1.0
+1123,2023-10-25,Livros,SC,9.0,793.61,Cartão de Débito,Entregue,1.0
+1033,2023-03-20,Eletrônicos,MG,9.0,335.79,Boleto,Entregue,3.0
+1225,2024-06-30,LIVROS,MG,5.0,350.33,PIX,Entregue,4.0
+1163,31/01/2024,Alimentos,PR,2.0,"R$ 218,98",Cartão de Débito,Pendente,4.0
+1231,2024-07-15,Alimentos,BA,8.0,799.55,Cartão de Crédito,Entregue,5.0
+1269,2024-10-16,Livros,PR,1.0,658.98,Boleto,Cancelado,5.0
+1139,2023-12-03,Roupas,SP,2.0,363.24,PIX,Entregue,5.0
+1063,2023-06-01,Roupas,RJ,3.0,122.77,  Cartão de Crédito  ,Entregue,4.0
+1216,2024-06-08,Roupas,SP,8.0,74.32,Cartão de Débito,Cancelado,5.0
+1136,26-11-23,Roupas,Sao Paulo,5.0,524.72,PIX,Entregue,5.0
+1129,2023-11-09,Alimentos,SP,4.0,596.04,  Boleto  ,Em trânsito,3.0
+1010,2023-01-22,Eletrônicos,SP,7.0,249.92,Cartão de Débito,Entregue,
+1009,2023-01-20,Roupas,MG,8.0,"R$ 216,90",Cartão de Débito,Cancelado,3.0
+1071,2023-06-20,Livros,Minas Gerais,1.0,217.48,Cartão de Débito,Em trânsito,
+1278,2024-11-07,Livros,BA,2.0,306.97,PIX,Entregue,
+1065,2023-06-06,Alimentos,SP,6.0,762.75,PIX,Entregue,4.0
+1045,2023-04-18,Eletrônicos,GO,3.0,370.89,Cartão de Débito,Cancelado,4.0
+1015,2023-02-04,LIVROS,RJ,3.0,"R$ 786,25",PIX,Entregue,3.0
+1157,16/01/2024,Eletrônicos,RJ,8.0,730.05,PIX,Em trânsito,4.0
+1041,2023-04-08,Eletrônicos,PR,5.0,"R$ 226,34",PIX,Cancelado,
+1251,02-09-24,Eletrônicos,SC,9.0,132.25,  Cartão de Débito  ,Entregue,5.0
+1124,28-10-23,Alimentos,,1.0,434.5,Cartão de Crédito,Cancelado,5.0
+1290,06-12-24,Alimentos,SC,7.0,529.76,Boleto,Entregue,4.0
+1217,11-06-24,Eletrônicos,,6.0,127.64,Cartão de Crédito,Em trânsito,4.0
+1154,09/01/2024,Roupas,SP,6.0,-99.99,Cartão de Débito,Cancelado,
+1024,2023-02-26,esportes,GO,0.0,443.04,Boleto,Entregue,5.0
+1279,2024-11-09,Eletrônicos,GO,3.0,"R$ 190,97",PIX,Entregue,4.0
+1111,2023-09-26,Roupas,RJ,7.0,"R$ 534,76",PIX,Entregue,4.0
+1082,2023-07-17,Alimentos,GO,2.0,"R$ 658,28",Cartão de Crédito,Cancelado,
+1237,2024-07-30,Livros,RS,5.0,379.74,Cartão de Débito,Entregue,3.0
+1208,2024-05-20,esportes,RJ,9.0,324.25,Cartão de Crédito,Entregue,2.0
+1213,01-06-24,Livros,SC,8.0,503.34,PIX,Entregue,5.0
+1040,2023-04-06,Livros,GO,6.0,98.31,  Cartão de Débito  ,Entregue,
+1288,2024-12-01,Alimentos,SP,1.0,"R$ 792,50",Cartão de Crédito,Entregue,4.0
+1249,2024-08-28,Livros,,8.0,403.18,Cartão de Débito,Cancelado,4.0
+1252,2024-09-04,Alimentos,RS,8.0,705.67,Cartão de Débito,Entregue,4.0
+1121,2023-10-20,Alimentos,GO,3.0,716.14,Cartão de Crédito,Entregue,
+1202,2024-05-05,Esportes,PR,2.0,282.18,Boleto,Em trânsito,2.0
+1162,2024-01-29,Livros,RJ,6.0,495.85,PIX,Cancelado,4.0
+1044,15/04/2023,Roupas,BA,6.0,"R$ 342,58",,Entregue,2.0
+1218,2024-06-13,Eletrônicos,Sao Paulo,4.0,636.78,Cartão de Crédito,,4.0
+1191,2024-04-08,Livros,GO,7.0,207.38,Cartão de Crédito,Cancelado,5.0
+1260,2024-09-24,ALIMENTOS,SC,6.0,624.21,Cartão de Débito,Entregue,4.0
+1106,14/09/2023,Livros,BA,9.0,326.48,  PIX  ,Entregue,5.0
+1054,10/05/2023,ALIMENTOS,rs,6.0,"R$ 145,78",Cartão de Débito,Entregue,4.0
+1002,2023-01-03,Livros,SC,3.0,222.36,Cartão de Débito,Em trânsito,4.0
+1050,2023-04-30,livros,R.J.,1.0,284.67,Cartão de Débito,Entregue,5.0
+1081,2023-07-15,Esportes,SP,3.0,791.11,PIX,Cancelado,4.0
+1206,15/05/2024,ROUPAS,Rio Grande do Sul,8.0,623.98,Cartão de Débito,Entregue,4.0
+1035,25/03/2023,ESPORTES,rs,8.0,622.44,Cartão de Crédito,Entregue,3.0
+1264,04/10/2024,esportes,RJ,6.0,151.04,  Cartão de Débito  ,Em trânsito,4.0
+1092,11/08/2023,Esportes,RJ,4.0,605.65,Cartão de Débito,Entregue,5.0
+1053,07/05/2023,Roupas,MG,5.0,210.94,Cartão de Crédito,Pendente,
+1265,2024-10-06,Esportes,GO,,134.55,Cartão de Débito,Cancelado,5.0
+1242,11/08/2024,Alimentos,SP,7.0,634.22,PIX,Em trânsito,1.0
+1014,2023-02-01,Livros,MG,3.0,787.96,Boleto,Entregue,
+1089,2023-08-03,Livros,GO,8.0,287.07,Boleto,Entregue,4.0
+1274,28/10/2024,Esportes,SP,4.0,606.82,Cartão de Crédito,Pendente,4.0
+1167,10/02/2024,Roupas,RJ,7.0,331.75,PIX,Cancelado,3.0
+1248,2024-08-26,Alimentos,,4.0,645.08,Cartão de Crédito,Entregue,4.0
+1135,24-11-23,livros,rs,4.0,347.05,Cartão de Crédito,Em trânsito,
+1096,2023-08-20,Roupas,SC,2.0,361.63,Boleto,Entregue,4.0
+1244,16/08/2024,LIVROS,Rio de Janeiro,1.0,660.56,Cartão de Crédito,Entregue,2.0
+1055,2023-05-12,Alimentos,GO,5.0,753.21,PIX,Entregue,2.0
+1051,2023-05-03,Livros,Bahia,3.0,434.06,Boleto,Cancelado,2.0
+1175,2024-02-29,Livros,PR,7.0,686.11,Cartão de Débito,Pendente,
+1190,2024-04-06,Roupas,ba,1.0,376.03,Cartão de Crédito,Em trânsito,1.0
+1113,2023-10-01,ALIMENTOS,Minas gerais,7.0,388.77,PIX,Em trânsito,4.0
+1188,01/04/2024,Roupas,ba,4.0,614.82,PIX,Cancelado,4.0
+1170,2024-02-17,Eletrônicos,GO,7.0,332.05,  Boleto  ,Entregue,4.0
+1059,2023-05-22,Livros,São Paulo,9.0,"R$ 402,67",  Cartão de Crédito  ,Entregue,4.0
+1049,28/04/2023,livros,rj,5.0,702.17,  Cartão de Débito  ,Entregue,5.0
+1236,2024-07-27,Livros,Rio de Janeiro,8.0,268.29,,Entregue,
+1253,07/09/2024,ELETRÔNICOS,SC,6.0,94.95,  Cartão de Débito  ,Entregue,5.0
+1022,2023-02-21,Roupas,SP,7.0,679.72,Boleto,Entregue,3.0
+1161,2024-01-26,Esportes,PR,6.0,"R$ 763,28",,Entregue,5.0
+1277,2024-11-04,Alimentos,GO,3.0,382.45,PIX,Entregue,4.0
+1192,2024-04-11,livros,SC,9.0,522.96,Boleto,Em trânsito,5.0
+1294,16/12/2024,Roupas,GO,3.0,780.96,Cartão de Débito,Entregue,5.0
+1258,2024-09-19,ELETRÔNICOS,GO,6.0,20.4,Cartão de Crédito,Cancelado,4.0
+1150,2023-12-30,Eletrônicos,MG,8.0,212.41,  Cartão de Crédito  ,Entregue,2.0
+1131,14-11-23,Alimentos,São Paulo,6.0,"R$ 458,22",PIX,Entregue,
+1152,2024-01-04,Roupas,GO,1.0,-99.99,Cartão de Crédito,Cancelado,5.0
+1100,30/08/2023,Eletrônicos,mg,7.0,239.1,Cartão de Crédito,Entregue,4.0
+1088,2023-08-01,Roupas,SC,1.0,59.08,PIX,Entregue,4.0
+1215,2024-06-06,Livros,GO,,"R$ 785,04",Cartão de Débito,Entregue,2.0
+1122,2023-10-23,Livros,PR,1.0,604.7,Cartão de Débito,Em trânsito,4.0
+1055,2023-05-12,Alimentos,GO,5.0,753.21,PIX,Entregue,2.0
+1021,2023-02-18,Alimentos,MG,8.0,"R$ 95,64",Boleto,Entregue,1.0
+1189,03-04-24,Roupas,SC,9.0,394.87,PIX,Cancelado,5.0
+1072,2023-06-23,Eletrônicos,PR,4.0,43.44,PIX,Entregue,4.0
+1107,2023-09-16,Livros,RS,2.0,739.04,,Entregue,4.0
+1271,2024-10-21,ROUPAS,GO,4.0,327.7,  Boleto  ,Entregue,5.0
+1103,2023-09-07,Esportes,MG,8.0,120.64,  Cartão de Crédito  ,Entregue,5.0
